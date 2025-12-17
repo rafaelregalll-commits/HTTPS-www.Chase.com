@@ -5,7 +5,7 @@ Bank profile affiliated with chase bank only
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Chase Bank Demo Profile - Educational Only</title>
+  <title>Chase Bank Profile - Educational Only</title>
   <style>
     body {
       font-family: 'Segoe UI', Arial, sans-serif;
